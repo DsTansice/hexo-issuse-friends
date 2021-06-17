@@ -4,7 +4,7 @@ setting:
     ssl: false # ssl设置
 
   gitee_friends_links: # gitee友链配置
-    enable: true
+    enable: false
     owner: xaoxuu
     repo: friends
     state: open
